@@ -1,0 +1,6 @@
+# Dell EMC R730xd
+## 사양
+- Intel Xeon E5-2660 v4 x2
+- DDR4 ECC 48GB
+- SATA SSD 256GB x3, RAID 0
+- SAS HDD 2TB
